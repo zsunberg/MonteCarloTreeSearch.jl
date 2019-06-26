@@ -1,0 +1,4 @@
+name = "MonteCarloTreeSearch"
+uuid = "d26a5878-9567-11e9-327f-edb6243b8ee6"
+authors = ["Zachary Sunberg <sunbergzach@gmail.com>"]
+version = "0.1.0"
